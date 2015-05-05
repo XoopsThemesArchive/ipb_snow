@@ -1,0 +1,4 @@
+1.此佈景XOOPS部分版權由 http://petitoops.net/ 所有,但允許RB修改釋出,整體佈景版權為 Koudanshi 中文支援 所有,僅提供私人網站性質使用
+2. ipb_snow.zip 為XOOPS佈景解壓縮後置於themes目錄下即可
+3. set-SNOW_IPBM_(Import)1.tar 為IPBM佈景,請置於根目錄\modules\ipboard\archive_in 由ACP--面板 & 模板--匯入面板檔案
+4.匯入後請至 管理面板組件--編輯--設定為預設面板,並將使用模板及包裝選擇為預設的,我們主要是要套用他的圖檔跟CSS
